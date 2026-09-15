@@ -1,5 +1,5 @@
 # =============================================================================
-# HACKATHON SUBMISSION METADATA   
+# HACKATHON SUBMISSION METADATA
 # =============================================================================
 # Instructions:
 #   - Fill in ALL required fields (marked with # REQUIRED)
@@ -8,8 +8,9 @@
 #   - Use double quotes around all string values
 # =============================================================================
 
-team name: "CodeNova4"                             # REQUIRED — e.g., "Orion Squad"
-  track: "AI"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
+team:
+   name: "CodeNova4"                             # REQUIRED — e.g., "Orion Squad"
+   track: "AI"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Aarohi Patel"                           # REQUIRED — e.g., "Alice Chen"
     email: "aarohipatel2507@gmail.com"            # REQUIRED — e.g., "alice.chen@ibm.com"
