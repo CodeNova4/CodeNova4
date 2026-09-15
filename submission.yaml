@@ -2,10 +2,10 @@
 # HACKATHON SUBMISSION METADATA
 # =============================================================================
 # Instructions:
-#   - Fill in ALL required fields (marked with # REQUIRED)
-#   - Optional fields can be left as empty strings ""
-#   - Do NOT rename this file — the evaluation pipeline reads it by name
-#   - Use double quotes around all string values
+# - Fill in ALL required fields (marked with # REQUIRED)
+# - Optional fields can be left as empty strings ""
+# - Do NOT rename this file — the evaluation pipeline reads it by name
+# - Use double quotes around all string values
 # =============================================================================
 
 team:
