@@ -27,8 +27,8 @@ submission:
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
     "Military organisations cannot reliably determine whether aircraft, vehicles,and equipment are mission-ready. Maintenance runs on fixed calendar schedules
-    regardless of actual component condition, and HUMS (Health & Usage Monitoring System) sensor data that could predict failures weeks in advance sits unanalysed — so platforms fail unexpectedly, readiness drops, and recovery
-    takes weeks."
+    regardless of actual component condition, and HUMS (Health & Usage Monitoring System) sensor data that could predict failures weeks in advance sits unanalysed —
+    so platforms fail unexpectedly, readiness drops, and recovery takes weeks."
 
 
 
