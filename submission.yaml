@@ -26,21 +26,15 @@ submission:
   title: "Bob — Mission Readiness & Predictive Maintenance Copilot"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
-    "Military organisations cannot reliably determine whether aircraft, vehicles,
-    and equipment are mission-ready. Maintenance runs on fixed calendar schedules
-    regardless of actual component condition, and HUMS (Health & Usage Monitoring
-    System) sensor data that could predict failures weeks in advance sits
-    unanalysed — so platforms fail unexpectedly, readiness drops, and recovery
+    "Military organisations cannot reliably determine whether aircraft, vehicles,and equipment are mission-ready. Maintenance runs on fixed calendar schedules
+    regardless of actual component condition, and HUMS (Health & Usage Monitoring System) sensor data that could predict failures weeks in advance sits unanalysed — so platforms fail unexpectedly, readiness drops, and recovery
     takes weeks."
 
 
 
   solution_summary: >                  # REQUIRED — 1-3 sentences. What did you build?
-    "A Bob Copilot that ingests HUMS sensor data and service records, flags which
-    assets are not mission-ready, explains each readiness issue in plain
-    language, predicts which components will breach failure thresholds before
-    the next mission window, and produces one fleet-wide prioritized maintenance
-    plan ranked by urgency."
+    "A Bob Copilot that ingests HUMS sensor data and service records, flags which assets are not mission-ready, explains each readiness issue in plain language, predicts which components will breach failure thresholds before
+    the next mission window, and produces one fleet-wide prioritized maintenance plan ranked by urgency."
 
 
   key_features:  
