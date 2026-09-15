@@ -13,14 +13,14 @@ team:
   track: "AI"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Aarohi Patel"                           # REQUIRED — e.g., "Alice Chen"
-    email: "26it049@charusat.edu.in"            # REQUIRED — e.g., "alice.chen@ibm.com"
+    email: "aarohipatel2507@gmail.com"            # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
     - name: "Aastha Patel"                         # REQUIRED — Team member 1
-      email: "26it050@charusat.edu.in"
+      email: "aasthap309@gmail.com"
     - name: "Krisha Patel"                         # Add more members by copying the two lines above
-      email: "26it053@charusat.edu.in"
+      email: "krishaapatel112211@gmail.com"
     - name: "Purva Patel"
-      email: "26it065@charusat.edu.in"
+      email: "purvapatel5509@gmail.com"
 
 submission:
   title: "Bob — Mission Readiness & Predictive Maintenance Copilot"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
