@@ -38,7 +38,7 @@ submission:
 
 
   key_features:  
-  - "Fleet-wide readiness snapshot — Mission Ready / At Risk / Non-Mission-Capable counts at a glance"
+    - "Fleet-wide readiness snapshot — Mission Ready / At Risk / Non-Mission-Capable counts at a glance"
     - "Automated non-ready asset detection against per-component sensor thresholds"
     - "Plain-language issue explanations for every flagged component, generated via IBM watsonx.ai (Granite) with a rule-based fallback"
     - "Predictive failure timing — projects days-to-breach per component and checks it against the next mission window"
@@ -47,10 +47,10 @@ submission:
 
   tech_stack:
      languages: ["JavaScript (JSX)", "HTML5", "CSS3"]
-    frameworks: ["React 18", "Babel Standalone", "Recharts"]
-    ibm_technologies: ["watsonx.ai (Granite model)", "IBM Db2 / Cloudant", "IBM Cloud IAM"]
-    databases: ["IBM Db2 / Cloudant (live mode)", "In-memory seeded mock data (demo mode)"]
-    other: ["Google Fonts (CDN)", "cdnjs (React/ReactDOM/Babel CDN delivery)"]
+     frameworks: ["React 18", "Babel Standalone", "Recharts"]
+     ibm_technologies: ["watsonx.ai (Granite model)", "IBM Db2 / Cloudant", "IBM Cloud IAM"]
+     databases: ["IBM Db2 / Cloudant (live mode)", "In-memory seeded mock data (demo mode)"]
+     other: ["Google Fonts (CDN)", "cdnjs (React/ReactDOM/Babel CDN delivery)"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
     "The explainability layer: every readiness flag is backed by a plain-language
