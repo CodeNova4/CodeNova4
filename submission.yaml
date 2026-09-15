@@ -8,8 +8,7 @@
 #   - Use double quotes around all string values
 # =============================================================================
 
-team:
-  name: "CodeNova4"                             # REQUIRED — e.g., "Orion Squad"
+team name: "CodeNova4"                             # REQUIRED — e.g., "Orion Squad"
   track: "AI"                            # REQUIRED — one of: AI | DevOps | Sustainability | Open
   lead:
     name: "Aarohi Patel"                           # REQUIRED — e.g., "Alice Chen"
